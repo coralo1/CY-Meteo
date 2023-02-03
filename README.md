@@ -19,5 +19,5 @@ puis
 
 `./exec`
 
-Corentin RADIX--LOREGNARD
+Corentin RADIX--LOREGNARD && 
 David DEL CAMPO
