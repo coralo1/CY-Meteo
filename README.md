@@ -9,7 +9,7 @@ pour utiliser le programme sans c:
 
 `./cy-meteo-sansc --help`
 
-`cy-meteo-avecc` n'interagi pas vraiment avec le c (ou probablement mal), il est pas dans le bon dossier aussi.
+`cy-meteo-avecc` n'interagit pas vraiment avec le c (ou probablement mal), il est pas dans le bon dossier aussi.
 
 il y a un programme c qui trie les infos. 
 pour le compiler, entrer dans un terminal 
