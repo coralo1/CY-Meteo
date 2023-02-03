@@ -9,8 +9,7 @@ pour utiliser le programme sans c:
 
 `./cy-meteo-sansc --help`
 
-il y a un programme c qui trie les infos
-????
+il y a un programme c qui trie les infos. 
 pour le compiler, entrer dans un terminal 
 
 `make`
